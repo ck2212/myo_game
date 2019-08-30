@@ -1,1 +1,1 @@
-# myo_game
+# Myo_game
